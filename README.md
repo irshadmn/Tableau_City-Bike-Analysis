@@ -3,4 +3,4 @@ As the new lead analyst for the New York Citi Bike Program, you are now responsi
 
 https://public.tableau.com/profile/mohammed.nazimuddin.irshad#!/vizhome/citibike_15702942192740/Dashboard1
 
-picture
+
